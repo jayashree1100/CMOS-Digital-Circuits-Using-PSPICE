@@ -1,4 +1,4 @@
-# Simulation of CMOS Digital Circuits Using PSPICE
+# CMOS Digital Circuits Using PSPICE
 
 ## Project Objective
 - Design and simulate a CMOS digital circuit in PSPICE based on a Boolean expression.
@@ -138,6 +138,3 @@ Refer to that file for simulator-specific instructions.
 - Implement NMOS and PMOS networks for logic gates (NAND, NOR, Inverter).
 - Verify circuit functionality using PSPICE and analyze output waveforms.
 - Understand low-power operation and complementary CMOS behavior.
-
-## Project Nature
-This lab experiment was completed as part of the **Circuits and Simulation Laboratory**, evaluated for semester practical examination. Focus: CMOS design, Boolean logic realization, PSPICE simulation, and low-power digital circuit verification.
