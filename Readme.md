@@ -63,9 +63,7 @@ The Boolean expression is first realized using conventional logic gates such as 
 
 Boolean Expression: Y = (A(B + CD))'
 
-<p align="center">
-  <img src="images/Gates.JPG" alt="Boolean Expression Using Logic Gates" width="600">
-</p>
+
 
 #### Boolean Expression Using MOS Transistors
 
@@ -82,7 +80,7 @@ This duality ensures correct logic functionality while maintaining very low stat
 
 ### Steps to Realize Boolean Expression (`Y = (A(B + CD))'`)         
 
-- **B:** Series in PMOS, parallel in NMOS                     <img src="images/Circuit.JPG" alt="MOS Implementation" align="right" width="300" height="800" style="margin-left:20px; margin-bottom:0; margin-top:0;"/>
+- **B:** Series in PMOS, parallel in NMOS                    
 - **C and D:** Parallel in PMOS, series in NMOS               
 - **A:** Included in both PMOS and NMOS networks
 - **Output Y:** Taken from the common drain node
